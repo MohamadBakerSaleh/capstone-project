@@ -1,0 +1,36 @@
+*{
+    
+    font-family: "Sacramento", cursive;
+    text-align: center;
+    
+    color:white;
+}
+.container1{
+    background-color:#080e40;
+    width: 100%;
+    height: auto;
+    
+    
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(13, 13, 168);
+   
+}
+.container3{
+    display: flex;
+    align-items: center;
+    background-color:rgb(13, 13, 168);
+    flex-direction: column;
+    
+}
+.incontainer3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+    
+    padding-bottom: 20px;
+}
